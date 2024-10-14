@@ -49,7 +49,7 @@
 <body>
     <div class="mensaje-contenedor">
         <h1><?php 
-            $mensaje = "Hola, Jimena Mendoza";
+            $mensaje = "Hola, Jimena Mendoza Bienvenida";
             echo $mensaje; 
         ?></h1>
     </div>
